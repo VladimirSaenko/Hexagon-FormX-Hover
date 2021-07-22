@@ -99,11 +99,9 @@ body {
     transform: translate(-50%, -50%);
     z-index: 1;
     transform: rotate(100deg);
-
 }
 
 @keyframes anime {
-
     0% {
         filter: hue-rotate(0deg);
     }
