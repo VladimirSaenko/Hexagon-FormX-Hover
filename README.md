@@ -4,10 +4,10 @@
 
 ## Portfolio {
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-20-2/Hexagon-FormX/index.html
+### https://volodymyrsaienko240.github.io/Portfolio-2/sites/site-20-2/Hexagon-FormX/index.html
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-20/Hexagons/sites/s6/index.html
+### https://volodymyrsaienko240.github.io/Portfolio-2/sites/site-20/Hexagons/sites/s6/index.html
 
 ### }
 
-## Codepen: https://codepen.io/vladimirsaenko/pen/bGMZLOY
+## Codepen: https://codepen.io/volodymyrsaienko240/pen/bGMZLOY
